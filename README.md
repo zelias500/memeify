@@ -1,7 +1,7 @@
 # memeify
 Grab an image, edit/meme it, and instantly upload to imgur
 
-# How To Install
+# Installing the unpackaged version
 1. Open Chrome
 2. Type "chrome://extensions" in the URL bar
 3. Check the box marked "Developer Mode"
